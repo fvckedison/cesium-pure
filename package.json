@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cesium": "^1.98.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "name": "cesium-pure",
+  "version": "1.0.0",
+  "description": "for quikstart cesium by npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Edison Lien",
+  "license": "ISC"
+}
